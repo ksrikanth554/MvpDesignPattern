@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvpDesignPattern</string>
+    <string-array name="type">
+        <item>Select</item>
+        <item>Income</item>
+        <item>Ependiture</item>
+    </string-array>
+</resources>
